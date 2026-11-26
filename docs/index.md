@@ -7,17 +7,27 @@ hide:
 
 <div class="hero" markdown>
 
-# Learning ETFs in public, from Sri Lanka :flag_lk:
+<a class="hero-badge" href="comparisons/etf-vs-index/"><span class="tag">New</span> First article: ETF vs Index →</a>
 
-A step-by-step beginner guide. I'm learning ETF investing and writing down each step as I understand it.
+# Learning ETFs.<br><span class="gold">In public.</span>
 
-[Start with the first article](comparisons/etf-vs-index.md){ .md-button .md-button--primary }
+A step-by-step beginner guide to ETF investing, written as I learn, **from Sri Lanka** :flag_lk:
+
+[Start the guide :octicons-arrow-right-16:](comparisons/etf-vs-index.md){ .md-button .md-button--primary }
 [Read the disclaimer](disclaimer.md){ .md-button }
+
+<ul class="hero-checks">
+  <li>Free to read</li>
+  <li>Beginner friendly</li>
+  <li>Sources cited</li>
+</ul>
 
 </div>
 
 !!! warning "Not financial advice"
     I'm a learner, not a financial adviser. Everything here is my own understanding and may contain mistakes. Check important details with official sources before you invest.
+
+<p class="eyebrow">Explore</p>
 
 ## Sections
 
