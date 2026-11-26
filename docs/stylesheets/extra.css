@@ -97,8 +97,24 @@ body[data-md-color-scheme="slate"] {
   color: #fff;
 }
 
-.md-header__button.md-logo svg {
-  fill: var(--gold);
+.md-header__button.md-logo img {
+  height: 1.4rem;
+  border-radius: 0.3rem;
+}
+
+/* Site title links home */
+.md-header__home {
+  display: block;
+  color: inherit;
+}
+
+.md-header__home:hover,
+.md-header__home:focus {
+  color: var(--gold);
+}
+
+.md-header__topic:first-child {
+  font-weight: 700;
 }
 
 .md-tabs__link {

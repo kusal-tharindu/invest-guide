@@ -23,8 +23,8 @@ theme:
   font:
     text: Inter
     code: JetBrains Mono
-  icon:
-    logo: material/chart-line
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
   features:
     - navigation.tabs
     - navigation.sections
