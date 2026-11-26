@@ -1,0 +1,19 @@
+<div class="md-copyright">
+  <div class="footer-note">
+    <strong>For educational purposes only. Not financial advice.</strong>
+    I'm a beginner learning in public. Company and fund names are trademarks of their owners, and I'm not affiliated with any of them.
+  </div>
+  <div class="footer-links">
+    <a href="{{ 'about/' | url }}">About</a>
+    <span>·</span>
+    <a href="{{ 'disclaimer/' | url }}">Disclaimer</a>
+    <span>·</span>
+    <a href="{{ 'privacy/' | url }}">Privacy Policy</a>
+  </div>
+  <div class="footer-bottom">
+    {% if config.copyright %}<span class="footer-part">{{ config.copyright }}</span>{% endif %}
+    <span class="footer-sep">|</span>
+    <span class="footer-part">A project by
+      <a class="footer-brand" href="https://oxelan.com/" target="_blank" rel="noopener">Oxelan</a></span>
+  </div>
+</div>
