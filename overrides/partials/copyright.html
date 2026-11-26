@@ -1,15 +1,11 @@
 <div class="md-copyright">
-  <div class="footer-note">
-    <strong>For educational purposes only. Not financial advice.</strong>
-    I'm a beginner learning in public. Company and fund names are trademarks of their owners, and I'm not affiliated with any of them.
-  </div>
-  <div class="footer-links">
-    <a href="{{ 'about/' | url }}">About</a>
-    <span>·</span>
+  <nav class="footer-links" aria-label="Legal and site links">
+    <a href="{{ 'about/' | url }}">About Us</a>
+    <a href="{{ 'contact/' | url }}">Contact</a>
     <a href="{{ 'disclaimer/' | url }}">Disclaimer</a>
-    <span>·</span>
     <a href="{{ 'privacy/' | url }}">Privacy Policy</a>
-  </div>
+    <a href="{{ 'terms/' | url }}">Terms &amp; Conditions</a>
+  </nav>
   <div class="footer-bottom">
     {% if config.copyright %}<span class="footer-part">{{ config.copyright }}</span>{% endif %}
     <span class="footer-sep">|</span>

@@ -26,4 +26,4 @@ If this policy changes, for example if I add analytics, I will update this page.
 
 ## Contact
 
-For questions, contact me through [Oxelan](https://oxelan.com/){ target="_blank" rel="noopener" }.
+For questions, see the [Contact](contact.md) page.

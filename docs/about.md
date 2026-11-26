@@ -1,4 +1,4 @@
-# About
+# About Us
 
 ## Why this site exists
 

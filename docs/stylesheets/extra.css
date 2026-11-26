@@ -47,25 +47,22 @@
   padding: 0.8rem 0;
 }
 
-.footer-note {
-  max-width: 40rem;
-  margin: 0 auto 0.6rem;
-  font-size: 0.7rem;
-  color: rgba(255, 255, 255, 0.85);
-}
-
 .footer-links {
-  margin-bottom: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem 1.4rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.7rem;
 }
 
-.footer-links a {
-  color: #ffd54f;
+.md-footer-meta .footer-links a {
+  color: rgba(255, 255, 255, 0.9);
   font-weight: 600;
 }
 
-.footer-links span {
-  margin: 0 0.4rem;
-  opacity: 0.6;
+.md-footer-meta .footer-links a:hover {
+  color: #ffd54f;
 }
 
 .footer-bottom {

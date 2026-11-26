@@ -42,4 +42,4 @@ All content is provided "as is", without any warranty. I am not liable for any l
 
 ## Copyright
 
-© 2026 Kusal Tharindu ([Oxelan](https://oxelan.com/){ target="_blank" rel="noopener" }). All rights reserved. You may read and share links to this site for personal and educational use. Copying or republishing the content requires permission. See the [license](https://github.com/kusal-tharindu/invest-guide/blob/main/LICENSE){ target="_blank" rel="noopener" }.
+© 2026 Kusal Tharindu ([Oxelan](https://oxelan.com/){ target="_blank" rel="noopener" }). All rights reserved. You may read and share links to this site for personal and educational use. Copying or republishing the content requires permission. See the [Terms & Conditions](terms.md) and the [license](https://github.com/kusal-tharindu/invest-guide/blob/main/LICENSE){ target="_blank" rel="noopener" }.
